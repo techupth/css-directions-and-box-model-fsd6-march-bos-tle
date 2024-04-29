@@ -1,1 +1,32 @@
-/* Start coding here */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar{
+  background-color: cadetblue;
+  padding: 25px 30px;
+}
+.container1{
+  margin: 20px 30px;
+  border: 2px solid cadetblue;
+  padding: 15px 15px;
+  width: 70vw;
+  background-color: lightblue;
+}
+.container2{
+  margin: 20px 30px;
+  border: 2px solid cadetblue;
+  padding: 15px 15px;
+  width: 70vw;
+  background-color: lightblue;
+}
+.blank{
+    margin: 10px 0;
+    background-color: darkgray;
+    height: 10vh;
+    width: 40vw;
+}
+p{
+  width: 60vw;
+}
