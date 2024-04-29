@@ -1,1 +1,24 @@
-/* Start coding here */
+.box1 {
+    background-color: lightgray;
+    padding: 16px;
+    height: 100%;
+}
+.box2 {
+    background-color: black;
+    padding: 16px;
+    height: 100%;
+}
+.box3 {
+    background-color: crimson;
+    padding: 24px;
+    height: 100%;
+}
+.content {
+    background-color: khaki;
+    padding: 30px;
+    height: 100vh;
+    font-size: 72px;
+    text-align: center;
+}
+*{margin:0;
+padding: 0;}

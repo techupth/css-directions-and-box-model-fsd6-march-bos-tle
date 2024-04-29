@@ -1,1 +1,17 @@
-/* Start coding here */
+
+.head {
+padding: 30px;
+background-color: lightseagreen;
+}
+.box-1,
+.box-2 {
+  background-color:  lightblue;
+  padding: 10px 15px;
+  margin: 40px 30px;
+  border: 3px solid black;
+  width: 60vw;
+}
+.image1,.image2 {
+  width: 10vw;
+}
+*{margin:0}
